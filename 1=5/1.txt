@@ -1,0 +1,3 @@
+1- HTML stands for Hypertext Markup Language, and it is the standard markup language used to create web pages.
+
+
