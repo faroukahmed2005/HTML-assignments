@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="http://127.0.0.1:5500/index1.html" method="get">
+        <label hidden for="Token">Token:</label>
+            <input type="hidden" name="token" value="b92f1fc2fce391ad7af633723afd3055">
+        <label for="email">Email:</label>
+            <input type="email" name="email" value="o@o.com" readonly>
+            <br>
+        <label for="username">Username:</label>
+            <input type="text" name="username" minlength="5" maxlength="20" required autofocus>
+            <br>
+            
+        <button type="reset">Empty</button>
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
