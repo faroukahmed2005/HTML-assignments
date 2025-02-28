@@ -1,0 +1,29 @@
+1 - <!-- Type Question 1 Answer Below -->
+     "<!DOCTYPE html>"
+
+    <!-- Type Question 2 Answer Below -->
+     "Quirks mode"
+
+    <!-- Type Question 3 Answer Below -->
+     "NO"
+ 
+    <!-- Type Question 4 Answer Below -->
+     "NO"
+
+    <!-- Type Question 5 Answer Below -->
+     "These elements are used to create titles and each has its own style"
+------------------------------------------------------------------------------------------
+2 - No
+------------------------------------------------------------------------------------------ 
+3 - No
+------------------------------------------------------------------------------------------ 
+3 - Yes
+------------------------------------------------------------------------------------------ 
+4 - title    => Global
+    href     => Not Global
+    src      => Not Global
+    hidden   => Global
+    charset  => Not Global
+    class    => Global
+    id       => Global
+    type     => Not Global
